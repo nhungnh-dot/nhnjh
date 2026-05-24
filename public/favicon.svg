@@ -1,12 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
-  <!-- dark background -->
-  <rect width="100" height="100" fill="#111827" />
+  <!-- circular background -->
+  <circle cx="50" cy="50" r="50" fill="#111827" />
 
   <!-- omega symbol -->
   <text
     x="50"
-    y="62"
+    y="50"
     text-anchor="middle"
+    dominant-baseline="central"
     font-size="70"
     fill="#ffffff"
     font-family="Georgia, serif"
