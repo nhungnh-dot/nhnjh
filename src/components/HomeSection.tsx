@@ -3,7 +3,7 @@ import { Link2, Mail, Linkedin, GraduationCap, Briefcase, Award, ArrowRight, Map
 import { PERSONAL_INFO } from "../data";
 
 const mathBanner = "/src/assets/images/wave_banner_no_math_1779579587038.png";
-const avatarImage = "/src/assets/images/user_avatar_1779579810472.png";
+const avatarImage = "/user_avatar_1779579810472.png";
 
 interface HomeSectionProps {
   setActiveSection: (section: string) => void;
