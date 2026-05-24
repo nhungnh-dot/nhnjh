@@ -336,7 +336,7 @@ export const MENTORED_STUDENTS: MentoredStudent[] = [
   {
     id: "ment-3",
     name: "REU Research Team: Xavier Diamond, Selena Nguyen & Jordan Tierney",
-    institution: "SUMaR REU (University of California, Santa Cruz, Southern Connecticut State University, Colorado School of Mines)",
+    institution: "SUMaR REU (University of California, Santa Cruz; Southern Connecticut State University & Colorado School of Mines)",
     roleType: "REU Co-mentor",
     projects: [
       {
